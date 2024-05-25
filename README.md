@@ -3,6 +3,7 @@
 # Modules
 
 1] Basics React
+
 *PREREQUISITES*
 - Javascript concepts (event loop, closure, hoisting, DOM manipulation, etc)
 - Familiarity with HTML.
