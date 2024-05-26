@@ -6,5 +6,5 @@
 
 *PREREQUISITES*
 - Javascript concepts (event loop, closure, hoisting, DOM manipulation, etc)
-- Familiarity with HTML.
+- Familiarity with HTML.(Syntatical Language)
 - Basics of programming languages like arrays, objects, etc.
