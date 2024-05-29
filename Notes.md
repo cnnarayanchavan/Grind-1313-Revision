@@ -4,3 +4,5 @@
 
 2] for easy coding: *command + ctr + down arrow*
 
+3] Create Test Env and use of VM
+
