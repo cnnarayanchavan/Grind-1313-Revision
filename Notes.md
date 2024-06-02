@@ -6,6 +6,8 @@
 *command: git pull origin main --allow-unrelated-histories*
 
 2] for easy coding: *command + ctr + down arrow*
-
+ 
 3] _Shortcut : comment, fast phase coding, Ect.
+
+- table>tr>th*(number of how many you want)
 
