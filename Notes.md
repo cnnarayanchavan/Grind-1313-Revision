@@ -1,10 +1,11 @@
 # Things that i've lerant during revision of prerequisites
+
+* Emmit Shortcuts
+  
 1] to merge unrelated history from remote repo to local repo
 *command: git pull origin main --allow-unrelated-histories*
 
 2] for easy coding: *command + ctr + down arrow*
 
-3] _Shortcut : "<ul><li>*3"
-
-3] _Shortcut for lorem : "p>lorem(number of words you want)"
+3] _Shortcut : comment, fast phase coding, Ect.
 
