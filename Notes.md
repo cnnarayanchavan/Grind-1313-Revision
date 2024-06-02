@@ -10,4 +10,5 @@
 3] _Shortcut : comment, fast phase coding, Ect.
 
 - table>tr>th*(number of how many you want)
+- In form elemet the name attribute is mainly used to reference element in javascript as we write all logics in javascript file
 
