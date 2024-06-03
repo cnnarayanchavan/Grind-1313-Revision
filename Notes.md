@@ -14,4 +14,7 @@
 
 4] Classes and ID's in HTML 
 - where the classes and ID's in html is used to select the element.. to *target* to *select* the element in html we used the classes and object
-- use cases will be different of classes and id's as per styling 
+- use cases will be different of classes and id's as per styling
+- where the CLASSES denoted using "." and  the ID denoted using "#"
+- there can be multipel classes but the by convention ID will be only one (*Good practice uk*)
+- to target unique element we have ID 
