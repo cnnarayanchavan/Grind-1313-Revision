@@ -13,4 +13,5 @@
 - In form elemet the name attribute is mainly used to reference element in javascript as we write all logics in javascript file
 
 4] Classes and ID's in HTML 
-where the classes and ID's in html is used to select the element.. to *target* to *select* the element in html we used the classes and object
+- where the classes and ID's in html is used to select the element.. to *target* to *select* the element in html we used the classes and object
+- use cases will be different of classes and id's as per styling 
