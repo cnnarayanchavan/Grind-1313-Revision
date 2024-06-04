@@ -54,6 +54,13 @@ document.querySelector('<element>')
 
 
 
+[Here the querySelectorALL is return the *NODELISTS* of elements you wnat]
+
+- where *NODELISTS*  which appear like array but are not the pure arrays
+- also has the array menthods in define in prototype such as foeEach ect..
+
+
+
 
 
 
