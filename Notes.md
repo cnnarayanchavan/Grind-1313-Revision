@@ -59,7 +59,13 @@ document.querySelector('<element>')
 - where *NODELISTS*  which appear like array but are not the pure arrays
 - also has the array menthods in define in prototype such as foeEach ect..
 
-* HERE IN querySelectorAll WE HAVE TO DEFINE THAT WHICH ELEMENT WE WANT TO MANIPULATE OR UPDATE AS IT RETURN THE NodeList  THAT'S THE MAJOR DIFFERENCE BETWEEN querySelector AND querySelectorAll*
+*HERE IN querySelectorAll WE HAVE TO DEFINE THAT WHICH ELEMENT WE WANT TO MANIPULATE OR UPDATE AS IT RETURN THE NodeList  THAT'S THE MAJOR DIFFERENCE BETWEEN querySelector AND querySelectorAll*
+- as it returns the nodelist we can use the forEach() method for faster manipulation
+- but if we want to use the map or other methods we have first convert the NodeList into the Array then we can use other array methods.
+- e.g
+-  ![Query Selector ALL](https://github.com/cnnarayanchavan/Grind-1313/assets/113028954/fdefd25f-428f-4761-9025-1fd9144420c0)
+
+
 
 
 
