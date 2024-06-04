@@ -19,6 +19,11 @@
 - there can be multipel classes but the by convention ID will be only one (*Good practice uk*)
 - to target unique element we have ID
 
+  5] HTML <span> Element :
+  - It is generic insline container for phrasing the content
+  - Used to group the element for syling perpose
+  - is very much like a <div> element, but <div> is a block-level element whereas a <span> is an inline-level element
+
 
 # Dom Manipulation
 Updating and Altering Documens by inspecting the web page
