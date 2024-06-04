@@ -32,6 +32,15 @@ Updating and Altering Documens by inspecting the web page
 - [getElementById, GetAttributes, SetAttributes etc..]
 - Main part of this pricess to add or update contect using DOM.
 - using [.textContent, innerHTML, innerText etc....]
+  
+  1) InnerText : for just showing the priview which is visible.
+  2) InnterContent : all contect including hide contect.
+  3) innerHTML : contect with the elements of html.
+ 
+# DOM Query Selector[Used in real word]
+
+1) document.querySelector
+2) 
 
 
 
