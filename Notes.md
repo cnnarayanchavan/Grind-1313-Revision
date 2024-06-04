@@ -44,6 +44,11 @@ Updating and Altering Documens by inspecting the web page
 - E.G
 document.querySelector('<element>')
 
+*Here how it works*
+
+![DOM_Quert_sel](https://github.com/cnnarayanchavan/Grind-1313/assets/113028954/bcb03f67-0193-4ec0-9761-7a929b8d3b2e)
+
+
 
 
 
