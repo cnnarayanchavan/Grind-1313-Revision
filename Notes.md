@@ -38,8 +38,11 @@ Updating and Altering Documens by inspecting the web page
   3) innerHTML : contect with the elements of html.
  
 # DOM Query Selector[Used in real word]
-
-1) document.querySelector
+- using query sqlector we can directly get the element and manipulate it 
+- where it will returen the element you wanted
+  
+  *Syntax:
+1) document.querySelector('<element>')
 2) 
 
 
