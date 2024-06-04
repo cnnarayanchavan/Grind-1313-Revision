@@ -17,4 +17,8 @@
 - use cases will be different of classes and id's as per styling
 - where the CLASSES denoted using "." and  the ID denoted using "#"
 - there can be multipel classes but the by convention ID will be only one (*Good practice uk*)
-- to target unique element we have ID 
+- to target unique element we have ID
+
+
+# Dom Manipulation
+Updating and Altering Documens by inspecting the web page
