@@ -29,7 +29,7 @@
 Updating and Altering Documens by inspecting the web page
 - Using JSX(JavaScript eXtended) directly manipulate the web page from chrome console(web Browser)
 - Manipulation done using various methods Such as
-- [getElementById, GetAttributes, SetAttributes etc..]
+- [getElementById(), GetAttributes(), SetAttributes() etc..]
 - Main part of this pricess to add or update contect using DOM.
 - using [.textContent, innerHTML, innerText etc....]
   
@@ -65,7 +65,7 @@ document.querySelector('<element>')
 - e.g
 -  ![Query Selector ALL](https://github.com/cnnarayanchavan/Grind-1313/assets/113028954/fdefd25f-428f-4761-9025-1fd9144420c0)
 
-# The nect method getElementbyClass.
+# The next method getElementbyClass().
 - here the method getElementbyClass return the Html collection which is not (again) array.
 - so to apply the array methods we have to first conb=vert it into the array by using
 - Method = *Array.from(<Name>)*
