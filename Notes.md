@@ -25,5 +25,8 @@ Updating and Altering Documens by inspecting the web page
 - Using JSX(JavaScript eXtended) directly manipulate the web page from chrome console(web Browser)
 - Manipulation done using various methods Such as
 - [getElementById, GetAttributes, SetAttributes etc..]
+- Main part of this pricess to add or update contect using DOM.
+- using [.textContent, innerHTML, innerText etc....]
+
 
 
