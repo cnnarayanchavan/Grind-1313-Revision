@@ -40,10 +40,11 @@ Updating and Altering Documens by inspecting the web page
 # DOM Query Selector[Used in real word]
 - using query sqlector we can directly get the element and manipulate it 
 - where it will returen the element you wanted
-  
-  *Syntax:
-1) document.querySelector('<element>')
-2) 
+- THE BEST WAY TO MANIPULATE(UPDATATION, DELETATION ETC) THE DOCUMENT OBJECT MODEL
+- E.G
+document.querySelector('<element>')
+
+
 
 
 
