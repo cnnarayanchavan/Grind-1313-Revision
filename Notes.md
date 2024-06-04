@@ -59,6 +59,7 @@ document.querySelector('<element>')
 - where *NODELISTS*  which appear like array but are not the pure arrays
 - also has the array menthods in define in prototype such as foeEach ect..
 
+* HERE IN querySelectorAll WE HAVE TO DEFINE THAT WHICH ELEMENT WE WANT TO MANIPULATE OR UPDATE AS IT RETURN THE NodeList  THAT'S THE MAJOR DIFFERENCE BETWEEN querySelector AND querySelectorAll*
 
 
 
