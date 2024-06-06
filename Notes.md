@@ -69,7 +69,7 @@ document.querySelector('<element>')
 - here the method getElementbyClass return the Html collection which is not (again) array.
 - so to apply the array methods we have to first conb=vert it into the array by using
 - Method = *Array.from(<Name>)*
-- next
+
   
 
 
