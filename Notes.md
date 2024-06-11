@@ -70,6 +70,43 @@ document.querySelector('<element>')
 - so to apply the array methods we have to first conb=vert it into the array by using
 - Method = *Array.from(<Name>)*
 
+
+SQL
+- [x] Database
+
+- [x] What is DBMS
+
+- [x] what ua RDBMS
+
+- [x] Er-Diagram
+
+- [x] KEYS
+* It is an attribute or set of attributes which uniquely identifies each tuple or rows in table
+* SUPER KEY : Attribute or set of attributes using which we can uniquely identifies each tuples in table
+- [x] Transaction and ACID
+
+- [x] Normalisation
+- Functional Dependency 
+- 1NF
+- 2NF
+- 3NF
+- BCNF
+- [x] SQL Queries 
+- DDL (CREATE, ALTER, DROP, TRUNCATE, RENAME)
+- 
+- DML(SELECT, INSERT, UPDATE, DELETE, MERGE)
+- 
+- DCL(GRANT, REVOKE)
+- 
+- TCL(COMMIT, ROLLBACK, SAVEPOINT)
+- [x] Joints 
+- [x] Trigger 
+- [x] Stored Procedure
+- [x] Cursor 
+- [x] Views 
+- [x] Index 
+- [x] Foreign Key
+- [x] Subquery In SQL
   
 
 
