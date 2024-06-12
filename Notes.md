@@ -109,7 +109,7 @@ SQL
 - [x] Subquery In SQL
   
 
-
+- utilized to store data coming from site;
 
 
 
