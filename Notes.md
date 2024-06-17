@@ -1,4 +1,4 @@
-# Things that i've lerant during revision of prerequisites
+# Things that i've lerant during 
 
 * Emmit Shortcuts For Fast Phase Coding 
   
